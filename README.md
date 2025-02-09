@@ -1,14 +1,14 @@
-# Bootstrap News Website
+Bootstrap based News-Website (Hive World News)
 
 This is a responsive news website built using Bootstrap. The website utilizes various Bootstrap components to create a structured and visually appealing layout.
 
-## Features
+# Features
 - **Breadcrumb Navigation** - Enhances user navigation.
 - **Carousel** - Displays featured news articles in a slideshow.
 - **Grid System** - Ensures a responsive and organized layout.
 - **Containers** - Helps maintain consistent spacing and alignment.
 
-## Technologies Used
+# Technologies Used
 - Bootstrap 5
 - HTML5
 - CSS3
