@@ -18,4 +18,4 @@ This is a responsive news website built using Bootstrap. The website utilizes va
 - HTML5
 - CSS3
 
-Check it out https://shreyakulkarni132.github.io/news-website/index.html
+Check it out (https://shreyakulkarni132.github.io/Bootstrap-news-website/)
